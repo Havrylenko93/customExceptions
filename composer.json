@@ -1,0 +1,15 @@
+{
+    "name": "user/custom-exceptions",
+    "authors": [
+        {
+            "name": "Serhii Havrylenko",
+            "email": "shavrylenko@livegenic.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CustomExceptions\\" : ""
+        }
+    },
+    "require": {}
+}
